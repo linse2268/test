@@ -1,0 +1,53 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 7%;
+    background-color: #0e1c36;
+}
+.content{
+    width: 60%;
+    height: 70%;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 10px 20px;
+    box-shadow: 0 5px 15px black;
+    background-color: #0e1c36;
+}
+
+h1{
+    font-size: 3em;
+}
+
+h4{
+    font-size: 1.5em;
+}
+
+.weight{
+    margin: 5px;
+    height: 30px;
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 5px;
+    
+    text-align: right;
+    background-color: #0e1c36;
+}
+
+.barbell{
+    height: 20px;
+    width: 20px;
+}
+
+label{
+    font-size: 1.5em;
+    font-weight: 500;
+}
